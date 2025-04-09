@@ -4,3 +4,5 @@ __pycache__
 =======
 .DS_Store
 >>>>>>> Stashed changes
+config.bat
+node_modules
